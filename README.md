@@ -20,7 +20,7 @@
 ## 🛠 Compétences
 - *Langages de programmation* : C, C#, HTML, CSS, Python, Java, PHP.
 - *Gestion de bases de données* : Oracle, Microsoft SQL Server, MySQL.
-- *Langages de programmation Web*:Html,CSS,JavaScript.
+- *Langages de développement Web*:Html,CSS,JavaScript.
 
  ---
 
