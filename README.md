@@ -12,7 +12,7 @@
 ## 🙋‍♀️ À propos de moi
 - 🎓 Étudiante en 2ème année de *Business Computing* à l'*ESSECT*.
 - 🧮 Passionnée par le *développement*.
-- 🎯 *Objectif* : Devenir une *développeuse* et *lancer mon propre projet*.
+- 🎯 *Objectif* : Devenir une *développeuse full stack* et *lancer mon propre projet*.
 - 🎨 *Centres d'intérêt* : mathématiques,technologie et langues .
 
 ---
